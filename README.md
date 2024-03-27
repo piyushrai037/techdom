@@ -1,5 +1,5 @@
 # techdom
-<h1>Download sentiment_analysis .ipynb fileand run cel by cell in google collab </h1>
+<h1>Download sentiment_analysis .ipynb fileand run cell by cell in google collab </h1>
 Sentiment Analysis Model Evaluation Report
 
 Data Preprocessing Steps:
